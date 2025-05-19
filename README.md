@@ -5,3 +5,6 @@ The dataset consists of Coffee sales of a company ranging from 2019 to 2022. So 
 
 ## Dataset Used
 <a href ="https://github.com/sum1tt/Data-Analysis-Dashboard-excel/blob/main/coffeeOrdersDataset.xlsx"> Coffee Sales Data </a>
+
+## Dashboard
+<a href="https://github.com/sum1tt/Data-Analysis-Dashboard-excel/blob/main/CoffeeSales_Dashboard.png"> Image </a>
